@@ -1,0 +1,11 @@
+# TASHAN GAME DEMO ACCOUNT SELLER BOT
+# Python dependencies
+
+pyTelegramBotAPI
+
+# Notes:
+# - Python 3.9+ recommended.
+# - The bot uses standard Python libraries: json, os, threading, datetime.
+# - These standard libraries do NOT need to be installed separately.
+# - The bot stores JSON data files inside the "data/" folder.
+# - Install with: pip install -r requirements.txt
