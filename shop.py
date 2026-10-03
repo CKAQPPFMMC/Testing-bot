@@ -34,9 +34,9 @@ from aiogram.types import (BufferedInputFile, CallbackQuery, InlineKeyboardButto
 # ======================================================================
 #                              CONFIG
 # ======================================================================
-BOT_TOKEN = os.getenv("BOT_TOKEN", "PASTE_YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8818542559:AAErT1d8Fa1I0z7m6tsIi2NEMK7mFa7JgaM")
 # Owner Telegram numeric ID(s), comma separated. Owner = full access + Admin Management
-OWNER_IDS = [int(x) for x in os.getenv("OWNER_IDS", "123456789").split(",") if x.strip()]
+OWNER_IDS = [int(x) for x in os.getenv("OWNER_IDS", "8934463264").split(",") if x.strip()]
 SHOP_NAME = "New Proxy Market"
 DB_PATH = os.getenv("DB_PATH", "shop.db")
 MAX_QTY = 500                       # max pieces per single order
